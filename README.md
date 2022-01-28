@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rishabh Gusain
-- 👀 I’m interested in Software Development
+- 👀 I’m interested in Software Development, I am good in Python, Oops concepts, Machine learning,Web development.
 - 🌱 I’m currently learning Web Development (HTML, CSS, Flask)
 - 📫 My Linkdin https://www.linkedin.com/in/rishabh-g-53b34a114/
 
